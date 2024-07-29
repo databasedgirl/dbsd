@@ -2,7 +2,7 @@ $(document).ready(()=>{
     links = {
         "blog":{
             "url":"#",
-            "name":"DataRoom [W.I.P]"
+            "name":"DataPit [W.I.P]"
         },
         "blinkie":{
             "url":"https://adriansblinkiecollection.neocities.org",
