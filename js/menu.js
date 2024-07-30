@@ -1,8 +1,8 @@
 $(document).ready(()=>{
     links = {
         "blog":{
-            "url":"#",
-            "name":"DataPit [W.I.P]"
+            "url":"https://datapit.vercel.app/",
+            "name":"Blog"
         },
         "blinkie":{
             "url":"https://adriansblinkiecollection.neocities.org",
